@@ -5,10 +5,14 @@ import { useLanguage } from '../context/LanguageContext';
 
 const projects = [
   // YouTube Thumbnails
-  { id: 1, title: 'Analytics Thumbnail', titleHi: 'एनालिटिक्स थंबनेल', category: 'YouTube Thumbnails', image: '/Danny Why Chanel Thumnail PSD (2).jpg' },
-  { id: 2, title: 'Tech Review Thumbnail', titleHi: 'टेक रिव्यू थंबनेल', category: 'YouTube Thumbnails', image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop' },
-  { id: 9, title: 'Vlog Style Thumbnail', titleHi: 'व्लॉग स्टाइल थंबनेल', category: 'YouTube Thumbnails', image: 'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=2071&auto=format&fit=crop' },
-  
+{ id: 1, title: 'Design Project 1', titleHi: 'डिज़ाइन प्रोजेक्ट 1', category: 'YouTube Thumbnails', image: '/th1.png' },
+  { id: 2, title: 'Design Project 2', titleHi: 'डिज़ाइन प्रोजेक्ट 2', category: 'YouTube Thumbnails', image: '/th2.png' },
+  { id: 3, title: 'Design Project 3', titleHi: 'डिज़ाइन प्रोजेक्ट 3', category: 'YouTube Thumbnails', image: '/th3.png' },
+  { id: 4, title: 'Design Project 4', titleHi: 'डिज़ाइन प्रोजेक्ट 4', category: 'YouTube Thumbnails', image: '/th4.png' },
+  { id: 5, title: 'Design Project 5', titleHi: 'डिज़ाइन प्रोजेक्ट 5', category: 'YouTube Thumbnails', image: '/th5.png' },
+  { id: 6, title: 'Design Project 6', titleHi: 'डिज़ाइन प्रोजेक्ट 6', category: 'YouTube Thumbnails', image: '/th6.png' },
+  { id: 7, title: 'Design Project 7', titleHi: 'डिज़ाइन प्रोजेक्ट 7', category: 'YouTube Thumbnails', image: '/th7.png' },
+  { id: 8, title: 'Design Project 8', titleHi: 'डिज़ाइन प्रोजेक्ट 8', category: 'YouTube Thumbnails', image: '/th8.jpg' },  
   // Branding Designs
   { id: 3, title: 'Modern Logo Design', titleHi: 'आधुनिक लोगो डिज़ाइन', category: 'Branding Designs', image: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=2071&auto=format&fit=crop' },
   { id: 4, title: 'Brand Identity Mockup', titleHi: 'ब्रांड पहचान मॉकअप', category: 'Branding Designs', image: 'https://images.unsplash.com/photo-1586717791821-3f44a563dc4c?q=80&w=2070&auto=format&fit=crop' },
